@@ -18,3 +18,5 @@ In Module 1, we have -
 The datasets available in this Repository are - 
  - HousingData.csv - Boston Housing Dataset
  - Titanic_train.csv - Titanic Survival Dataset
+
+## For Module 2 and 3 check the respective folders.
